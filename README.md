@@ -1,4 +1,8 @@
-### DiscordPanel   # The only free open source Discord Bot Panel for hosts and more. It currently can manage up to 4 bots by default but more bots can be added easily.
+### DiscordPanel  
+> The only free open source Discord Bot Panel for hosts and more. It currently can manage up to 4 bots by default but more bots can be added easily.
+
+
+
 ## What is is?
 =======
 ### DiscordPanel   
